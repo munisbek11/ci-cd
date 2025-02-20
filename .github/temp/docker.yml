@@ -19,4 +19,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: https://github.com/munisbek11/ci-cd.git_actions:latest
+          tags: muhammadalishuhratjonov50148/cicd_github_actions:latest
